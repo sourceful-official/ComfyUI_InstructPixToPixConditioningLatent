@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-LoadLoraModelOnlyWithUrl"
+description = "ComfyUI-LoadLoraModelOnlyWithUrl"
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["diffusers==0.24.0"]
+
+[project.urls]
+Repository = "https://github.com/sourceful-official/LoadLoraModelOnlyWithUrl"
+
+[tool.comfy]
+PublisherId = "sourceful-official"
+DisplayName = "ComfyUI-LoadLoraModelOnlyWithUrl"
+Icon = "S"
