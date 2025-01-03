@@ -35,3 +35,7 @@ class InstructPixToPixConditioningLatent:
 NODE_CLASS_MAPPINGS = {
     "InstructPixToPixConditioningLatent": InstructPixToPixConditioningLatent,
 }
+
+NODE_DISPLAY_NAME_MAPPINGS = {
+    "InstructPixToPixConditioningLatent": "InstructPixToPixConditioningLatent",
+}
